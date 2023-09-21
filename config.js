@@ -60,8 +60,8 @@ global.nameown = 'naVOd' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'navodn80'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
